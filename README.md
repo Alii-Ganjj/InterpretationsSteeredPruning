@@ -33,9 +33,9 @@ computational costs of our pruning method. We leverage our selector model to
 steer the network pruning by maximizing the similarity of explanatory
 representations for the pruned and original models. Extensive 
 experiments on CIFAR-10 and ImageNet benchmark datasets demonstrate the
-efficacy of our proposed method.
+efficacy of our proposed method. </em>
 
-
+## Repository Structure
 As our architectures and implementations for CIFAR-10 and ImageNet are different, we provide our code for CIFAR-10 
 and ImageNet in two separate branches. You can access them after cloning the project with the following commands:
 
