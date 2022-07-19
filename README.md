@@ -43,3 +43,17 @@ and ImageNet in two separate branches. You can access them after cloning the pro
 git checkout CIFAR10
 git checkout ImageNet
 ```
+
+## Citation
+If you find this project helpful, please consider citing our paper: 
+```bash
+@inproceedings{ganjdanesh2022isp,  
+  title={Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps},
+  author={Ganjdanesh, Alireza and Gao, Shangqian and Huang, Heng},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2022}
+  }
+```
+
+## Contact
+If you have any questions or suggestions, feel free to contact us. (<a>alireza.ganjdanesh@pitt.edu</a>) 
